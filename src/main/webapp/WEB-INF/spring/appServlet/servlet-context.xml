@@ -25,5 +25,4 @@
 	<context:component-scan base-package="net46.andreasb.net" />
 	
 	
-	
 </beans:beans>
